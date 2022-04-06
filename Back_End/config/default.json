@@ -1,0 +1,6 @@
+{
+  "mongoURI":
+              "mongodb://jaidev:4AL15ME715@cluster0-shard-00-00.vkf2h.mongodb.net:27017,cluster0-shard-00-01.vkf2h.mongodb.net:27017,cluster0-shard-00-02.vkf2h.mongodb.net:27017/myFirstDatabase?ssl=true&replicaSet=atlas-ax01hq-shard-0&authSource=admin&retryWrites=true&w=majority"
+}
+ 
+
